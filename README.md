@@ -4,6 +4,12 @@
 
 ## Hi 👋, I'm [Jyoti Prajapati](https://precious-haupia-87a0bc.netlify.app/)
 
+
+<div>
+  <h3>I`m a programmer, Mentor and Learner </h3>
+   <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595331045788/7DTc5AKaw.gif?auto=format,compress&gif-q=60&format=webm" alt="">
+</div>
+
 ### A passionate developer from India
 
 - 🚀 Currently giving assistance in developing systems for those in their bachelor's or master's degree.
@@ -11,11 +17,6 @@
 - 👨‍💻 Some of my projects are available at https://precious-haupia-87a0bc.netlify.app/
 
 - 📫 How to reach me jyotiiprajapati07@gmail.com
-
-#
-<div>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 #
 

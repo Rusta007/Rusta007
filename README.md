@@ -58,7 +58,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 ![image](https://user-images.githubusercontent.com/94469107/221567800-fe3adef6-4d78-4d94-9280-1ad9a6710cc8.png)
-![image](https://user-images.githubusercontent.com/94469107/221567824-7fa7b9f8-a4f9-480e-bb67-08ac972af347.png)
+
  
 # 
 ![image](https://user-images.githubusercontent.com/94469107/221568022-6f550223-7257-48d9-9e19-00e34cd47485.png)

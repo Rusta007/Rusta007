@@ -14,7 +14,7 @@
 
 - 🚀 Currently giving assistance in developing systems for those in their bachelor's or master's degree.
 
-- 👨‍💻 Some of my projects are available at https://precious-haupia-87a0bc.netlify.app/
+- 👨‍💻 Some of my projects are available at https://rusta-07-portfolio.netlify.app/
 
 - 📫 How to reach me jyotiiprajapati07@gmail.com
 

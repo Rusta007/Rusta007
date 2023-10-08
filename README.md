@@ -2,11 +2,13 @@
 <img src="https://camo.githubusercontent.com/fc9f6fe43b09d81f44a2e2b3caa392b0d7a99ae00c3d434fb8079cdc5dfbaffd/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d596f6f6f6f6f6f6f6f6f6f6f6f6f6f6f6f3b57656c636f6d652b746f2b6d792b70726f66696c65213b486176652b612b6c6f6f6b2b61726f756e642126666f6e743d46697261253230436f646526636f6c6f723d2532334436324637392663656e7465723d747275652677696474683d323830266865696768743d3530" />
 </div>
 
-# Hi 👋, I'm [Jyoti Prajapati](https://rusta-07-portfolio.netlify.app/)
+# Hi 👋, I'm [Jyoti Prajapati](https://rusta-07-portfolio.netlify.app/)  <span align="left"> <img src="https://komarev.com/ghpvc/?username=rusta007&label=Profile%20views&color=0e75b6&style=flat" alt="rusta007" /> </span>
 
 
 <div>
-  <h3>I`m a programmer, Mentor and Learner </h3>
+  <h3>I`m a programmer, Mentor and Learner 
+ 
+  </h3>
    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1595331045788/7DTc5AKaw.gif?auto=format,compress&gif-q=60&format=webm" alt="">
 </div>
 
@@ -66,6 +68,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p><a href="https://www.buymeacoffee.com/buycoffee rusta007"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buycoffee rusta007" /></a></p><br><br>
 
 # 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rusta007&label=Profile%20views&color=0e75b6&style=flat" alt="rusta007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rusta007" alt="rusta007" /></a> </p>

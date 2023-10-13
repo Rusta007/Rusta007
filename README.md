@@ -104,9 +104,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br/>
 <br/>
 <br/>
-
-<br/>
-<br/>
 <br/>
 
 

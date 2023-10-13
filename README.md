@@ -65,7 +65,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 # 
 
 <h3 align="left">Support:</h3>
-<p>Welcome to my GitHub profile! If you've found value in my open-source contributions and projects, and you'd like to show your appreciation, consider supporting me with a coffee.</p>
+<p>🌟 Welcome to my GitHub profile! If you've found value in my 🔓 open-source contributions and 🛠️ projects, and you'd like to show your appreciation by keeping the ☕️☕️ coffee flowing, I'm grateful for your support. 🚀</p>
 
 <p><a href="https://www.buymeacoffee.com/jp07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buycoffee rusta007" /></a></p><br><br>
 

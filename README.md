@@ -113,7 +113,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 #
 
-### Get to Know Me Better 👨‍💻
+### 👨‍💻 Get to Know Me Better : 
 
-I'm a passionate developer 💡👨‍💻 dedicated to creating innovative software solutions 🚀 and contributing to the open-source community 🌍. My journey in the world of coding has been an exciting adventure, and I'm committed to sharing my knowledge, experience, and creativity with the community. 🌟🤝
+I'm a passionate developer 💡 dedicated to creating innovative software solutions 🚀 and contributing to the open-source community 🌍. My journey in the world of coding has been an exciting adventure, and I'm committed to sharing my knowledge, experience, and creativity with the community. 🌟🤝
 </div>

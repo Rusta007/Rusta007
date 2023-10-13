@@ -65,7 +65,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 # 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buycoffee rusta007"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buycoffee rusta007" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/jp07"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buycoffee rusta007" /></a></p><br><br>
 
 # 
 

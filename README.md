@@ -1,5 +1,5 @@
 <div>
-<img src="https://media.tenor.com/KZTuhD2udSgAAAAj/borboletas-butterflies.gif" />
+<img src="https://blog.logrocket.com/wp-content/uploads/2020/08/Dino_non-birthday_version.gif"  />
 </div>
 
 # Hi 👋, I'm [Jyoti Prajapati](https://rusta-07-portfolio.netlify.app/)  <span align="left"> <img src="https://komarev.com/ghpvc/?username=rusta007&label=Profile%20views&color=0e75b6&style=flat" alt="rusta007" /> </span>
@@ -116,4 +116,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 👨‍💻 Get to Know Me Better : 
 
 I'm a passionate developer 💡 dedicated to creating innovative software solutions 🚀 and contributing to the open-source community 🌍. My journey in the world of coding has been an exciting adventure, and I'm committed to sharing my knowledge, experience, and creativity with the community. 🌟🤝
+</div>
+
+<div>
+  <img src="https://i.imgflip.com/2kuh6f.jpg" />
 </div>

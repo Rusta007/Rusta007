@@ -1,5 +1,5 @@
 <div>
-<img src="https://i.pinimg.com/originals/cc/2d/2a/cc2d2a4b08b801879707231afbffdecf.gif" />
+<img src="https://media.tenor.com/KZTuhD2udSgAAAAj/borboletas-butterflies.gif" />
 </div>
 
 # Hi 👋, I'm [Jyoti Prajapati](https://rusta-07-portfolio.netlify.app/)  <span align="left"> <img src="https://komarev.com/ghpvc/?username=rusta007&label=Profile%20views&color=0e75b6&style=flat" alt="rusta007" /> </span>

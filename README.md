@@ -78,7 +78,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 #
 ### :fire: My Stats :
-<p><img src="https://github-readme-stats.vercel.app/api?username=rusta007&show_icons=true&theme=radical" align="center" alt="rusta007"/></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=rusta007&show_icons=true&theme=highcontrast" align="center" alt="rusta007"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusta007&hide_border=true" alt="rusta007" /></p>
 
 

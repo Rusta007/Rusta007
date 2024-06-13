@@ -4,6 +4,7 @@
 
 # Hi 👋, I'm [Jyoti Prajapati](https://rusta-07-portfolio.netlify.app/)  <span align="left"> <img src="https://komarev.com/ghpvc/?username=rusta007&label=Profile%20views&color=0e75b6&style=flat" alt="rusta007" /> </span>
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
 
 <div>
   <h3>I`m a programmer, Mentor and Learner 

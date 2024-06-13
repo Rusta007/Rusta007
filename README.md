@@ -80,7 +80,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusta007&hide_border=true" alt="rusta007" /></p>
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=rusta007&theme=matrix" alt="rusta007" /></p>
+<p><img align="center" src="" alt="rusta007" /></p>
 
 ### Most Languages Used:
 

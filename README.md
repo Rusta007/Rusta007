@@ -79,8 +79,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 #
 ### :fire: My Stats :
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusta007&theme=discord" alt="rusta007" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rusta007&show_icons=true&locale=en" alt="rusta007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusta007&" alt="rusta007" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rusta007&show_icons=true&locale=en&theme=discord" alt="rusta007" /></p>
 
 ### Most Languages Used:
 

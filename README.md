@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm [Jyoti Prajapati](https://rusta-07-portfolio.netlify.app/)  <span align="left"> <img src="https://komarev.com/ghpvc/?username=rusta007&label=Profile%20views&color=0e75b6&style=flat" alt="rusta007" /> </span>
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
+
 
 <div>
   <h3>I`m a programmer, Mentor and Learner 
@@ -79,7 +79,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 #
 ### :fire: My Stats :
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusta007&" alt="rusta007" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusta007&theme=discord" alt="rusta007" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rusta007&show_icons=true&locale=en" alt="rusta007" /></p>
 
 ### Most Languages Used:

@@ -74,13 +74,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rusta007&label=Profile%20views&color=0e75b6&style=flat" alt="rusta007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rusta007" alt="rusta007" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rusta007&theme=matrix" alt="rusta007" /></a> </p>
 
 #
 ### :fire: My Stats :
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusta007&hide_border=true" alt="rusta007" /></p>
-<p><img align="center" src="" alt="rusta007" /></p>
+
 
 ### Most Languages Used:
 
